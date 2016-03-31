@@ -1,0 +1,27 @@
+Package: elliotwave
+Version: 1.9.1.9000
+Type: Package
+Title: elliot waves
+Date: 2015-11-28
+Author: J. Puglisi <admin@meatwad.org>
+Maintainer: J. Puglisi <admin@meatwad.org>
+Description: Elliot waves
+Depends:
+    R (>= 3.0.2)
+Imports:
+    roxygen2,
+    rmarkdown
+Suggests:
+    plyr,
+    abind,
+    testthat,
+    tcltk,
+    foreach,
+    doParallel,
+    iterators,
+    lintr,
+    rmarkdown,
+    bitops,
+License: GPL (>= 2)
+LazyData: true
+RoxygenNote: 5.0.1.9000

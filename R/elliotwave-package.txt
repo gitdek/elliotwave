@@ -1,0 +1,9 @@
+#' elliotwave
+#'
+#' @name elliotwave
+#' @docType package
+#' @author puglisij <admin@meatwad.org>
+#' @description elliotwave
+#'
+#'
+NULL
